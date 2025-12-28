@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently I am a fresher in MERN Stack Developer<br>I am looking for a job in MERN Stack Development<br>I am pursuing BCA 4th semester from IGNOU University<br>I am Under Graduate<br>I am looking for internship for MERN Stack Development<br>
+Currently I am a fresher in MERN Stack Development<br>I am looking for a job in MERN Stack Development<br>I am pursuing BCA 4th semester from IGNOU University<br>I am Under Graduate<br>I am looking for internship for MERN Stack Development<br>
 
 
 ## 🌐 Socials:
